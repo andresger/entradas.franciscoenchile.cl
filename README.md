@@ -4,7 +4,8 @@
 ![](https://img.shields.io/github/languages/count/andresger/entradas.franciscoenchile.cl.svg) ![](https://img.shields.io/github/languages/top/andresger/entradas.franciscoenchile.cl.svg) ![](https://img.shields.io/badge/status-offline-red.svg)
 
 ------------
->This repo is only for Front-End code showcase purpose
+>This repo is only for Front-End code showcase purpose.
+
 >Este repositorio tiene solo el propósito de mostrar el código Front-End.
 
 ------------
